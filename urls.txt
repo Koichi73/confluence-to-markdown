@@ -1,0 +1,2 @@
+https://your-domain.atlassian.net/wiki/spaces/SPACEKEY/pages/12345/Page+Title
+https://your-domain.atlassian.net/wiki/pages/viewpage.action?pageId=67890
