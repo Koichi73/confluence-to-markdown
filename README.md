@@ -13,7 +13,7 @@ This script converts specified Confluence pages into Markdown files.
 
 1.  **Clone the repository**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Koichi73/confluence-to-markdown
     cd confluence-to-markdown
     ```
 
