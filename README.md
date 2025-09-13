@@ -34,6 +34,9 @@ This script converts specified Confluence pages into Markdown files.
     CONFLUENCE_API_TOKEN="your_api_token_here"
     CONFLUENCE_USER_NAME="your.email@example.com"
     ```
+    You can create an API token by following the instructions here:
+    - [English Guide](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/)
+    - [Japanese Guide (日本語)](https://support.atlassian.com/ja/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/)
 
 ## Usage
 
